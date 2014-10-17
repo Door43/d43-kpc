@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kpc:home|Door43 (kpc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kpc|d43-kpc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kpc/archive/master.zip|d43-kpc.zip]]
+
+**Recent Changes**
+{{changes>ns = kpc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kpc|Ethnologue data]]
+
